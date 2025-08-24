@@ -1,0 +1,29 @@
+# File .gitignore per progetto LIBRO
+
+# Directory di configurazione locali
+.vscode/
+.qodo/
+.claude/
+
+# File di sistema Windows / macOS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Archivi e backup
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.bak
+*.tmp
+~$*
+
+# Log
+*.log
+
+# Variabili ambiente
+.env
+
+# Note: NON ignorare i capitoli .txt

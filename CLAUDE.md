@@ -1,0 +1,23 @@
+- ogni volta che si scrive un capitolo quello deve rispettare fedelmente la scaletta.
+- ogni volta che si scrive un capitolo quello deve avere almeno 3000 parole.
+- ricorda sempre quando modifichi un capitolo di vedere se è conforme con la scaletta.
+- Quando completi un task scrivilo nel PIANO_MIGLIORAMENTO_10_10
+- quando modifichi il piano_miglioramento_10_10.md è perché hai effettivamente modificato ciò che dici nel piano di miglioramento nei capitoli del romanzo.
+- Non modificare mai il piano_miglioramento se non hai fatto modifiche nei capitoli.
+- ogni volta che stai per arrivare al limite delle 5 ore scrivi un riepilogo di quello che hai fatto fino a quel momento.
+- non inserire caratteri come # - * — all'interno del testo del romanzo.
+- pensa in italiano e scrivi in italiano corretto sia dal punto di vista grammaticale che stilistico.
+- non inserire spazi prima o dopo le virgolette, le parentesi quadre, le parentesi tonde, le graffe, le doppi graffe, le doppi parentesi quadre. 
+ -so come si usano i due punti le virgolette e il punto e virgola e le virgole. Usali correttamente.
+- COERENZA VERBALE: Mantieni il tempo narrativo principale (es. passato remoto) costante, senza salti temporali.
+- VIRGOLA: Non separare mai soggetto-verbo e verbo-oggetto diretto con la virgola.
+- PRONOMI: Usa gli solo per il maschile singolare, le per il femminile, loro per il plurale.
+- ORTOGRAFIA CRITICA: Correggi sempre qual'è in qual è, un pò in un po', e verifica l'accento su dà/sì/né.
+- APOSTROFO: Usa un' solo davanti a nomi femminili che iniziano per vocale, mai con i maschili (un amico).
+- NOMI COLLETTIVI: Coniuga il verbo al singolare se il soggetto è un nome collettivo (es. la gente pensa).
+- D EUFONICA: Usa ed/ad solo prima della stessa vocale (es. ed ecco), altrimenti evita.
+- MAIUSCOLE: Applica la maiuscola solo a inizio frase, a inizio dialogo e per i nomi propri.
+- DIALOGO (STILE): Scegli uno stile di dialogo ("", «» o —) e mantienilo con coerenza assoluta.
+- DIALOGO (PUNTEGGIATURA): Posiziona sempre la punteggiatura finale della battuta (., ,, ?) dentro le virgolette.
+- DIALOGO (TAG): Se dopo le virgolette segue disse/chiese, il dialogo chiude con una virgola e disse inizia minuscolo.
+- DIALOGO (AZIONE): Se dopo le virgolette segue una nuova azione, il dialogo chiude con un punto e l'azione inizia maiuscola.
